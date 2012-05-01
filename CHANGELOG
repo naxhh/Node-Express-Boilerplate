@@ -1,0 +1,5 @@
+v 0.0.1
+
+ - Added this changelog
+ - Added support for 404 & 500 error
+ - removed an anoinnings .gitignore
